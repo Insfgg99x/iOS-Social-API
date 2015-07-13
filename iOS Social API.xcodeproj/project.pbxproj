@@ -14,6 +14,7 @@
 		189990DB1B53D612004DD9F2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 189990DA1B53D612004DD9F2 /* Images.xcassets */; };
 		189990DE1B53D612004DD9F2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 189990DC1B53D612004DD9F2 /* LaunchScreen.xib */; };
 		189990EA1B53D612004DD9F2 /* iOS_Social_APITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 189990E91B53D612004DD9F2 /* iOS_Social_APITests.m */; };
+		189990F41B53D6A1004DD9F2 /* item.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189990F31B53D6A1004DD9F2 /* item.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		189990E31B53D612004DD9F2 /* iOS Social APITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS Social APITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		189990E81B53D612004DD9F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		189990E91B53D612004DD9F2 /* iOS_Social_APITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_Social_APITests.m; sourceTree = "<group>"; };
+		189990F31B53D6A1004DD9F2 /* item.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = item.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		189990CC1B53D612004DD9F2 /* iOS Social API */ = {
 			isa = PBXGroup;
 			children = (
+				189990F31B53D6A1004DD9F2 /* item.jpg */,
 				189990D11B53D612004DD9F2 /* AppDelegate.h */,
 				189990D21B53D612004DD9F2 /* AppDelegate.m */,
 				189990D41B53D612004DD9F2 /* ViewController.h */,
@@ -201,6 +204,7 @@
 			files = (
 				189990D91B53D612004DD9F2 /* Main.storyboard in Resources */,
 				189990DE1B53D612004DD9F2 /* LaunchScreen.xib in Resources */,
+				189990F41B53D6A1004DD9F2 /* item.jpg in Resources */,
 				189990DB1B53D612004DD9F2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
